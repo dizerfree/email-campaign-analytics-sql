@@ -79,6 +79,15 @@ The dashboard includes:
 
 - `email_engagement_dashboard.sql` — main query powering the dashboard
 
+## 🔍 Preview
+
+Here’s a quick look at the dashboard layout and metrics:
+
+![Dashboard Preview](images/email_campaign_overview.png)
+
+🔗 [View dashboard in Looker Studio](https://lookerstudio.google.com/reporting/7a1aa906-be17-4863-9962-dbdeac514029)
+
+
 ## ✍️ Author
 
 Created by [Nataliia](https://www.linkedin.com/in/nataliia-hrushko/)  
