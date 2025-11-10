@@ -2,6 +2,10 @@
 
 This repository contains a BigQuery SQL query powering a Looker Studio dashboard that visualizes email campaign performance across countries and over time.
 
+![Dashboard Preview](images/email_campaign_overview.png)
+
+🔗 [View dashboard in Looker Studio](https://lookerstudio.google.com/reporting/7a1aa906-be17-4863-9962-dbdeac514029)
+
 ## 📊 Dashboard Highlights
 
 The dashboard includes:
@@ -78,15 +82,6 @@ The dashboard includes:
 ## 📁 Files
 
 - `email_engagement_dashboard.sql` — main query powering the dashboard
-
-## 🔍 Preview
-
-Here’s a quick look at the dashboard layout and metrics:
-
-![Dashboard Preview](images/email_campaign_overview.png)
-
-🔗 [View dashboard in Looker Studio](https://lookerstudio.google.com/reporting/7a1aa906-be17-4863-9962-dbdeac514029)
-
 
 ## ✍️ Author
 
